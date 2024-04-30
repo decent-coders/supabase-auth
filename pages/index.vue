@@ -1,6 +1,5 @@
 <template lang="">
   <Title>Overview</Title>
-  Test
   <div>
     <div class="w-full bg-green-50 rounded-2xl p-5 min-h-[82vh]">
       <div v-if="!user">
